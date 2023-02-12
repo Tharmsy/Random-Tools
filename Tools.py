@@ -19,7 +19,7 @@ if tool_choice == 1:
         print(f"Created folder {folder_name}_{i+1} at {folder_location}")
 
 elif tool_choice == 2:
-    discord_link = "https://discord.gg/your_server_code"
+    discord_link = "https://discord.gg/B73FFJpTnV"
     webbrowser.open(discord_link)
 
 else:
